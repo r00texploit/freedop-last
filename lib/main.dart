@@ -5,16 +5,10 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:provider/provider.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:splash_screen_view/SplashScreenView.dart';
 import 'package:today/controller/auth_controller.dart';
 
-import 'package:today/screens/login.dart';
-import 'package:today/screens/home.dart';
 import 'package:today/widgets/theme.dart';
-import 'package:today/widgets/theme/constants.dart';
-import 'package:today/widgets/theme/style.dart';
 import 'package:today/widgets/theme/theme_model.dart';
 
 void main() async {

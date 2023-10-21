@@ -8,11 +8,9 @@ import 'package:today/screens/new_video.dart';
 import 'package:today/screens/photo/home.dart';
 
 import 'package:today/screens/settings.dart';
-import 'package:today/screens/video_hero_animation.dart';
 
 import 'package:today/widgets/App_bar.dart';
 import 'package:today/widgets/file_upload.dart';
-import 'package:today/widgets/file_upload.dart' as upload;
 
 import 'user_name.dart';
 
