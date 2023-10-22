@@ -10,7 +10,8 @@ environment:
 
 dependencies:
   audio_video_progress_bar: ^0.11.0
-  audioplayers: ^3.0.1
+  # audioplayers: ^3.0.1
+  audioplayers: ^5.2.0
   cached_network_image: ^3.2.3
   chewie: ^1.4.0
   cloud_firestore: ^4.3.0
